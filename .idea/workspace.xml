@@ -2,27 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe06a30a-289f-49f1-9a2f-250acceff251" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/IfElse/Calculater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/IfElse/Odd_Even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/IfElse/PrintGreeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/IfElse/equal_greater_less.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/IfElse/if_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Loops/HelloLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Loops/NaturalNumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Loops/NumberPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Loops/table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Switch/NewFeature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Switch/PrintGreeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Switch/calculater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HakerRank/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HakerRank/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HakerRank/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hellojava/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hellojava/Qinputcal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hellojava/input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hellojava/star01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hellojava/variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPatterns/Floyd_Triangle_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPatterns/HalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPatterns/HalfPyramid_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPatterns/HellowRactangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPatterns/Inverted_HalfPayramid_roteated_180deg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPatterns/Inverted_HalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPatterns/Inverted_HalfPyramid_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPatterns/SolidRactangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPatterns/Triangle_Zero_And_One.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
