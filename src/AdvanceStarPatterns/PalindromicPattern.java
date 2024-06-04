@@ -3,7 +3,11 @@ package AdvanceStarPatterns;
 
 public class PalindromicPattern {
     public static void main(String[] args) {
-
+//            1
+//           212
+//          32123
+//         4321234
+//        543212345
         int n = 5;
         for(int i = 1; i <= n; i++){
             //spaces

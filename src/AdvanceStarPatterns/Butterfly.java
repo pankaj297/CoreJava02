@@ -5,6 +5,18 @@ public  class Butterfly {
     public static void main(String[] args) {
 //        Butterfly
 
+        //*									*
+        //*	*							*	*
+        //*	*	*					*	*	*
+        //*	*	*	*			*	*	*	*
+        //*	*	*	*	*	*	*	*	*	*
+        //*	*	*	*	*	*	*	*	*	*
+        //*	*	*	*			*	*	*	*
+        //*	*	*					*	*	*
+        //*	*							*	*
+        //*									*
+
+
         int n = 5;
 
         //Upper Half
