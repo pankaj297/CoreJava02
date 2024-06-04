@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe06a30a-289f-49f1-9a2f-250acceff251" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StarPatterns/Floyd_Triangle_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarPatterns/HalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarPatterns/HalfPyramid_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarPatterns/HellowRactangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarPatterns/Inverted_HalfPayramid_roteated_180deg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarPatterns/Inverted_HalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarPatterns/Inverted_HalfPyramid_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarPatterns/SolidRactangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarPatterns/Triangle_Zero_And_One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvanceStarPatterns/Butterfly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvanceStarPatterns/DiamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvanceStarPatterns/NumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvanceStarPatterns/PalindromicPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvanceStarPatterns/SolidRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HakerRank/Q4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
