@@ -5,6 +5,12 @@ public class Triangle_Zero_And_One {
 
         int n = 5;
 
+//        1
+//        0 1
+//        1 0 1
+//        0 1 0 1
+//        1 0 1 0 1
+
 //        outer loop
         for(int i = 1; i<= n; i++){
             for(int j =1; j <= i; j++){
@@ -20,3 +26,4 @@ public class Triangle_Zero_And_One {
         }
     }
 }
+
