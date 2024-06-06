@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe06a30a-289f-49f1-9a2f-250acceff251" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Functions/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Multiply_Two_Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/PrintMyName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Sum_TwoNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Display_positive_negative_num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/GreaterNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/InfiiteLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Sum_odd_num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Vote_allow_or_not.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Cal_Geratest_Common_Divisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Num_paower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarPatterns/Triangle_Zero_And_One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarPatterns/Triangle_Zero_And_One.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions/Display_positive_negative_num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/Display_positive_negative_num.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
