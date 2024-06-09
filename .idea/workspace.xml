@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe06a30a-289f-49f1-9a2f-250acceff251" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questions/Cal_Geratest_Common_Divisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Num_paower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Big_size_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Marks_three_subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Search_givenNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Time_And_Space_Complexity/TimeComplexity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Display_positive_negative_num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/Display_positive_negative_num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions/~$va Exercise 1.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
