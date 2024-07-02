@@ -1,14 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe06a30a-289f-49f1-9a2f-250acceff251" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Big_size_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Marks_three_subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Search_givenNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Time_And_Space_Complexity/TimeComplexity.java" afterDir="false" />
+    <list default="true" id="fe06a30a-289f-49f1-9a2f-250acceff251" name="Changes" comment="hu">
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Search_Arrays2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitManipulation/ClearBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitManipulation/GetBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitManipulation/SetGit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitManipulation/UpdateBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Break_Continue/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsFramework/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsFramework/ListImpl/Demo1LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpectionHandling/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiniProject/RandomNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Abstraction/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Abstraction/AbstractInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Copy_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/Hierachial_Ineritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/Hybrid_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/Maltilevel_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/ParentChildTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/ParentChildTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/Single_Ineritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/None_Parameterized_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Parameterized_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Polymorphism/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/StaticEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilder/Append.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilder/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilder/IndexChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilder/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilder/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilder/ReverseString01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilder/SetCharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/StringCanvertUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/campareToMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/stringmethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/~$va Exercise 1.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +57,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Break_Continue/Demo1.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/CollectionsFramework/ListImpl/Demo1LinkedList.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/ConditionalStatements/IfElse/Calculater.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/ConditionalStatements/Loops/NumberPrint.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/ConditionalStatements/Switch/NewFeature.java" root0="SKIP_INSPECTION" />
@@ -65,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hu" />
+    <option name="LAST_COMMIT_MESSAGE" value="hu" />
   </component>
 </project>
